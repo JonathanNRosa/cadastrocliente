@@ -1,0 +1,30 @@
+/*css simples */
+
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+form input {
+    margin: 5px;
+    padding: 8px;
+}
+
+form button {
+    padding: 8px 12px;
+}
+
+ul li {
+    margin: 8px 0;
+}
+
+ul li button {
+    margin-left: 10px;
+    padding: 4px 8px;
+    background-color: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
